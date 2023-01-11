@@ -12,7 +12,7 @@ path='/tmp/log.txt'
 logInfo={
     'smtpserver':'smtp.gmail.com',
     'port':465,
-    'username':'duaten777hack00011@gmail.com',
+    'username':'abc@gmail.com',
     'passwd':'owppffchvauwhmvn'
 }
 
